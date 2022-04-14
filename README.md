@@ -1,2 +1,9 @@
-# DemoMatlab2
- Esto es un demo
+# MATLAB BÁSICO
+ 
+ ## Introducción
+ 
+ - Nombre: Erika Guamán
+
+ - Fecha: 2022 - 04 - 14
+
+ ![](./img/carro.png)
